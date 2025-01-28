@@ -19,7 +19,7 @@ The goal of this project is to accurately identify fraudulent online payment tra
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/Sushma9012/Online-Payment-Fraud-Detection-System.git
+git clone https://github.com/Pradeepthi1803/Online-Payment-Fraud-Detection-System.git
 cd Online-Payment-Fraud-Detection-System
 pip install -r requirements.txt
 
